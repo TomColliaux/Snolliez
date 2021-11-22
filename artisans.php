@@ -135,7 +135,7 @@
                     <div class="col-md-12 containRight1">
                         <iframe
                                 id="chat_embed"
-                                src="https://www.twitch.tv/embed/snolliez/chat?parent=http://localhost/perso/artisans.php"
+                                src="https://www.twitch.tv/embed/snolliez/chat?parent=http://localhost/perso/https://tomcolliaux.github.io/Snolliez/"
                                 height="500"
                                 width="350">
                         </iframe>
